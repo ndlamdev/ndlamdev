@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nguyen Dinh Lam</h1>
 <h3 align="center">A passionate full-stack developer from Nong Long University.</h3>
-
+<p align=center><img align="center" alt="coding" width="800" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndlamdev&label=Profile%20views&color=0e75b6&style=flat" alt="ndlamdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndlamdev" alt="ndlamdev" /></a> </p>
 
+- 🔭 I’m currently working on [Music player application for Android](https://github.com/ndlamdev/maui-music-application)
+
 - 🌱 I’m currently learning **Flutter**
+
+- 👯 I’m looking to collaborate on [Server Android Project](https://github.com/ducvui2003/spring-boot-music-application) 
 
 - 👨‍💻 All of my projects are available at [github.com/ndlamdev](github.com/ndlamdev)
 
-- 💬 Ask me about **Spring boot, React**
+- 💬 Ask me about **Spring boot, React, Android**
 
 - 📫 How to reach me **ndlam.dev@gmail.com**
 
@@ -30,5 +34,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndlamdev&show_icons=true&locale=en" alt="ndlamdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndlamdev&" alt="ndlamdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndlamdev" alt="ndlamdev" /></p>
 
